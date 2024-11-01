@@ -66,12 +66,12 @@ a:hover {
 
 a:focus,
 a:hover {
-    color: #28abe3;
+    color: #f95700ff;
 }
 
 .btn-main {
-    background: #28abe3;
-    border: 1px solid #28abe3;
+    background: #f95700ff;
+    border: 1px solid #f95700ff;
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -227,7 +227,7 @@ a:hover {
     25% {
         height: 30px;
         transform: translateY(15px);
-        background: #28abe3;
+        background: #f95700ff;
     }
     50%,
     100% {
@@ -276,7 +276,7 @@ a:hover {
     margin: 20px auto 20px;
     position: relative;
     width: 80px;
-    background: #28abe3;
+    background: #f95700ff;
 }
 
 .bg-gray {
@@ -293,7 +293,7 @@ a:hover {
     font-family: 'Source Sans Pro', sans-serif;
 }
 .header-bradcrumb a:hover {
-    color: #28abe3;
+    color: #f95700ff;
 }
 
 .colors-switcher {
@@ -364,7 +364,7 @@ a:hover {
 }
 
 .colors-switcher .colors-list a.blue {
-    background-color: #28abe3;
+    background-color: #f95700ff;
 }
 
 .colors-switcher .colors-list a.light-blue {
@@ -440,10 +440,10 @@ a:hover {
 .navigation .navbar-light .navbar-nav .nav-item .nav-link:active,
 .navigation .navbar-light .navbar-nav .nav-item .nav-link:focus {
     background: none;
-    color: #28abe3;
+    color: #f95700ff;
 }
 .navigation .navbar-light .navbar-nav .nav-item.active .nav-link {
-    color: #28abe3;
+    color: #f95700ff;
 }
 @media (max-width: 991px) {
     .navigation .nav-link {
@@ -760,7 +760,7 @@ a:hover {
     outline: 0;
 }
 .slick-arrow:hover {
-    background: #28abe3;
+    background: #f95700ff;
 }
 
 .prevArrow {
@@ -796,7 +796,7 @@ a:hover {
     background: #fff;
 }
 .about .btn-about {
-    background: #28abe3;
+    background: #f95700ff;
 }
 .about h4 {
     margin-top: 30px;
@@ -820,7 +820,7 @@ a:hover {
     }
 }
 .about .feature-list li i {
-    color: #28abe3;
+    color: #f95700ff;
     margin-right: 8px;
 }
 
@@ -914,14 +914,14 @@ a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-    border-color: #28abe3;
+    border-color: #f95700ff;
 }
 .contact-form #contact-submit {
     border: none;
     padding: 15px 0;
     width: 100%;
     margin: 0;
-    background: #28abe3;
+    background: #f95700ff;
     color: #fff;
     border-radius: 0;
 }
@@ -954,9 +954,9 @@ a:hover {
     text-align: center;
 }
 .social-icon ul li a:hover {
-    background: #28abe3;
+    background: #f95700ff;
     color: #fff;
-    border: 1px solid #28abe3;
+    border: 1px solid #f95700ff;
 }
 .social-icon ul li a:hover i {
     color: #fff;
@@ -1010,7 +1010,7 @@ a:hover {
 .counters-item i {
     font-size: 40px;
     display: inline-block;
-    color: #28abe3;
+    color: #f95700ff;
 }
 .counters-item h3 {
     font-size: 18px;
@@ -1079,7 +1079,7 @@ a:hover {
     margin-top: 5px;
 }
 .pricing-table .price-title .value {
-    color: #28abe3;
+    color: #f95700ff;
     font-size: 50px;
     padding: 10px 0;
 }
@@ -1097,14 +1097,14 @@ a:hover {
     font-size: 14px;
     padding: 8px 20px;
     text-transform: uppercase;
-    background: #28abe3;
+    background: #f95700ff;
     border: none;
     color: #fff;
     outline: none;
     margin: 6px 4px;
 }
 .portfolio-filter button.active {
-    background: #28abe3;
+    background: #f95700ff;
     color: #fff;
     border-radius: 50px;
 }
@@ -1151,7 +1151,7 @@ a:hover {
     color: #fff;
 }
 .portfolio-block .caption .search-icon {
-    background: #28abe3;
+    background: #f95700ff;
     color: #fff;
     display: inline-block;
     height: 45px;
@@ -1170,7 +1170,7 @@ a:hover {
     padding: 100px 0 130px;
 }
 .services .service-block.color-bg {
-    background: #28abe3;
+    background: #f95700ff;
     color: #fff;
 }
 .services .service-block.color-bg i,
@@ -1183,7 +1183,7 @@ a:hover {
 }
 .services .service-block i {
     font-size: 75px;
-    color: #28abe3;
+    color: #f95700ff;
 }
 .services .service-block h3 {
     color: #333;
@@ -1211,12 +1211,12 @@ a:hover {
 }
 .service-2 .service-item:hover i {
     background: #fff;
-    color: #28abe3;
+    color: #f95700ff;
 }
 .service-2 .service-item i {
     font-size: 30px;
     display: inline-block;
-    background: #28abe3 none repeat scroll 0 0;
+    background: #f95700ff none repeat scroll 0 0;
     border-radius: 30px;
     box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
     color: #fff;
@@ -1244,7 +1244,7 @@ a:hover {
     height: 10px;
 }
 .team-skills .progress-block .progress .progress-bar {
-    background: #28abe3;
+    background: #f95700ff;
     box-shadow: none;
 }
 
@@ -1282,7 +1282,7 @@ a:hover {
     color: #838383;
 }
 .development-steps .step-2 {
-    background-color: #28abe3;
+    background-color: #f95700ff;
 }
 .development-steps .step-2 h4,
 .development-steps .step-2 p {
@@ -1393,7 +1393,7 @@ a:hover {
 ==================================================================*/
 .testimonial {
     padding-top: 100px;
-    background: #28abe3;
+    background: #f95700ff;
     position: relative;
     padding-bottom: 0px;
     margin-bottom: 80px;
@@ -1484,7 +1484,7 @@ a:hover {
     margin-bottom: 30px;
 }
 .post-content blockquote {
-    border-left: 2px solid #28abe3;
+    border-left: 2px solid #f95700ff;
     padding: 40px 35px;
     margin-bottom: 30px;
     background: rgb(238, 238, 238);
@@ -1505,8 +1505,8 @@ a:hover {
     display: inline-block;
 }
 .post-content-share li a:hover {
-    background: #28abe3;
-    border-color: #28abe3;
+    background: #f95700ff;
+    border-color: #f95700ff;
     color: #fff;
 }
 
@@ -1557,7 +1557,7 @@ a:hover {
     }
 }
 .comment-list-item .comment-btn:hover {
-    background: #28abe3;
+    background: #f95700ff;
     color: #fff;
 }
 
@@ -1580,7 +1580,7 @@ a:hover {
     height: 200px !important;
 }
 .comment-form .btn-primary {
-    background: #28abe3;
+    background: #f95700ff;
     border-radius: 0;
     padding: 10px 20px;
     border: 0;
@@ -1608,7 +1608,7 @@ a:hover {
     right: 0;
     height: 100%;
     width: 50px;
-    background: #28abe3;
+    background: #f95700ff;
     border: 0;
 }
 .widget-search-btn i {
@@ -1635,7 +1635,7 @@ a:hover {
     margin-right: 10px;
 }
 .widget-categories-list li a:hover {
-    background: #28abe3;
+    background: #f95700ff;
     color: #fff;
     padding-left: 20px;
 }
@@ -1663,7 +1663,7 @@ a:hover {
     color: #000;
 }
 .widget-post-content h5:hover {
-    color: #28abe3;
+    color: #f95700ff;
 }
 
 /*=================================================================
@@ -1684,7 +1684,7 @@ a:hover {
     padding: 0 20px 10px;
 }
 .post-meta a {
-    color: #28abe3;
+    color: #f95700ff;
 }
 .post-meta > span {
     color: #666;
@@ -1738,7 +1738,7 @@ a:hover {
     color: #000;
 }
 .next-prev a:hover {
-    color: #28abe3;
+    color: #f95700ff;
 }
 .next-prev .prev-post i {
     margin-right: 10px;
@@ -1757,7 +1757,7 @@ a:hover {
     font-size: 16px;
 }
 .social-profile ul li a i:hover {
-    color: #28abe3;
+    color: #f95700ff;
 }
 
 .comments-section {
@@ -1801,7 +1801,7 @@ a:hover {
     margin-bottom: 8px;
 }
 .comment-wrap .media .media-heading a {
-    color: #28abe3;
+    color: #f95700ff;
     font-size: 13px;
 }
 .comment-wrap .media .comment-meta {
@@ -1824,7 +1824,7 @@ a:hover {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
     box-shadow: none;
-    border: 1px solid #28abe3;
+    border: 1px solid #f95700ff;
 }
 .comment-reply-form textarea,
 .comment-reply-form .btn-main {
@@ -1868,7 +1868,7 @@ a:hover {
     display: block;
 }
 .top-footer li a:hover {
-    color: #28abe3;
+    color: #f95700ff;
 }
 
 .footer-bottom {
@@ -1897,7 +1897,7 @@ a:hover {
     margin-bottom: 0;
 }
 .footer-bottom a {
-    color: #28abe3;
+    color: #f95700ff;
 }
 
 .page-404 {
@@ -2235,12 +2235,12 @@ a:hover {
     display: none;
 }
 .cookie-wrapper header i {
-    color: #28abe3;
+    color: #f95700ff;
     font-size: 32px;
     text-align: center;
 }
 .cookie-wrapper header h2 {
-    color: #28abe3;
+    color: #f95700ff;
     font-weight: 500;
     text-align: center;
 }
@@ -2248,7 +2248,7 @@ a:hover {
     text-align: center;
 }
 .data p a {
-    color: #28abe3;
+    color: #f95700ff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -2260,10 +2260,10 @@ a:hover {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #28abe3;
+    border: 2px solid #f95700ff;
     color: #fff;
     padding: 8px 0;
-    background: #28abe3;
+    background: #f95700ff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -2272,18 +2272,18 @@ a:hover {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #28abe3;
+    color: #f95700ff;
 }
 #declineBtn {
     background-color: #fff;
-    color: #28abe3;
+    color: #f95700ff;
     border-radius: 30px;
 }
 #declineBtn:hover {
-    background-color: #28abe3;
+    background-color: #f95700ff;
     color: #fff;
 }
 #result {
-    color: #28abe3;
+    color: #f95700ff;
     font-size: 14px;
 }
